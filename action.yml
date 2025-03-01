@@ -1,14 +1,13 @@
 name: "PR Treat Action"
-description: "Posts a random image from the assets folder as a comment on a PR"
-author: "Your Name"
+description: "Posts a random image as a recognition on a PR"
+author: "parthiv"
+branding:
+  icon: "gift"
+  color: "purple"
 inputs:
   github_token:
     description: "GitHub Token for authentication"
     required: true
-  assets_folder:
-    description: "Path to the assets folder (default: assets/ in repo)"
-    required: false
-    default: "assets"
 
 runs:
   using: "node21"
