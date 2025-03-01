@@ -1,0 +1,26 @@
+{
+  "name": "praisemesenpai",
+  "version": "0.1.0",
+  "description": "\"PRaiseMeSenpai - Because every PR deserves recognition\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/parthiv13/PRaiseMeSenpai.git"
+  },
+  "keywords": [
+    "GitHubActions"
+  ],
+  "author": "parthiv",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/parthiv13/PRaiseMeSenpai/issues"
+  },
+  "homepage": "https://github.com/parthiv13/PRaiseMeSenpai#readme",
+  "dependencies": {
+    "@actions/core": "^1.10.0",
+    "@actions/github": "^5.0.0"
+  }
+}
