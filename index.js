@@ -3,11 +3,11 @@ const github = require("@actions/github");
 
 const gifs = [
     'https://github.com/parthiv13/treat/blob/master/assets/1.gif',
-    'https://github.com/parthiv13/treat/blob/master/assets/2.gif',
+    'https://github.com/parthiv13/treat/blob/master/assets/2.jpg',
     'https://github.com/parthiv13/treat/blob/master/assets/3.gif',
     'https://github.com/parthiv13/treat/blob/master/assets/4.gif',
     'https://github.com/parthiv13/treat/blob/master/assets/5.gif',
-    'https://github.com/parthiv13/treat/blob/master/assets/6.gif',
+    'https://github.com/parthiv13/treat/blob/master/assets/6.jpg',
     'https://github.com/parthiv13/treat/blob/master/assets/7.gif',
     'https://github.com/parthiv13/treat/blob/master/assets/8.gif',
     'https://github.com/parthiv13/treat/blob/master/assets/9.gif',
