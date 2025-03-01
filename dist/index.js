@@ -34492,17 +34492,17 @@ const core = __nccwpck_require__(7484);
 const github = __nccwpck_require__(3228);
 
 const gifs = [
-    'https://github.com/parthiv13/treat/blob/master/assets/1.gif',
-    'https://github.com/parthiv13/treat/blob/master/assets/2.jpg',
-    'https://github.com/parthiv13/treat/blob/master/assets/3.gif',
-    'https://github.com/parthiv13/treat/blob/master/assets/4.gif',
-    'https://github.com/parthiv13/treat/blob/master/assets/5.gif',
-    'https://github.com/parthiv13/treat/blob/master/assets/6.jpg',
-    'https://github.com/parthiv13/treat/blob/master/assets/7.gif',
-    'https://github.com/parthiv13/treat/blob/master/assets/8.gif',
-    'https://github.com/parthiv13/treat/blob/master/assets/9.gif',
-    'https://github.com/parthiv13/treat/blob/master/assets/10.gif',
-    'https://github.com/parthiv13/treat/blob/master/assets/11.gif'
+    'https://raw.githubusercontent.com/parthiv13/treat/master/assets/1.gif',
+    'https://raw.githubusercontent.com/parthiv13/treat/master/assets/2.jpg',
+    'https://raw.githubusercontent.com/parthiv13/treat/master/assets/3.gif',
+    'https://raw.githubusercontent.com/parthiv13/treat/master/assets/4.gif',
+    'https://raw.githubusercontent.com/parthiv13/treat/master/assets/5.gif',
+    'https://raw.githubusercontent.com/parthiv13/treat/master/assets/6.jpg',
+    'https://raw.githubusercontent.com/parthiv13/treat/master/assets/7.gif',
+    'https://raw.githubusercontent.com/parthiv13/treat/master/assets/8.gif',
+    'https://raw.githubusercontent.com/parthiv13/treat/master/assets/9.gif',
+    'https://raw.githubusercontent.com/parthiv13/treat/master/assets/10.gif',
+    'https://raw.githubusercontent.com/parthiv13/treat/master/assets/11.gif'
 ];
 
 async function run() {
